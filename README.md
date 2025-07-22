@@ -26,7 +26,7 @@ A full-stack web application that allows students to preorder their canteen meal
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:**
 - React.js
